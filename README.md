@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Michal</h1>
+<h3 align="center">I'm a Fullstack Web Developer</h3>
 
 <!--
 **balickim/balickim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
